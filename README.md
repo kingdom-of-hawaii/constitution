@@ -1,2 +1,3 @@
-# constitution
-The Kingdom's official Constitution
+# Kingdom of Hawai'i Constitution
+The Kingdom of Hawai'is official Constitution.
+
